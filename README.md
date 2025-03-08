@@ -1,2 +1,2 @@
-# 2nd-Semester-
+# CSE Lab Courses-
 # OOP
